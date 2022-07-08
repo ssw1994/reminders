@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.input-controls {
+  background:whitesmoke;
+}
+
+.input-controls .MuiFormControl-root{
+  width: 400px;
+    margin: 15px 0;
+}
